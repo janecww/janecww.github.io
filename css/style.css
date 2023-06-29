@@ -380,7 +380,7 @@ body.offcanvas {
 .colorlib-about,
 .colorlib-services,
 .colorlib-contact {
-  padding-top: 4em;
+  padding-top: 1em;
   padding-bottom: 9em;
   clear: both;
   width: 100%;
@@ -405,7 +405,7 @@ body.offcanvas {
 
 .colorlib-heading {
   font-size: 18px;
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -418,7 +418,7 @@ body.offcanvas {
       margin-bottom: 3em; } }
 
 .heading-meta {
-  margin-bottom: px;
+  margin-bottom: 3px;
   display: block;
   font-size: 10px;
   text-transform: uppercase;
